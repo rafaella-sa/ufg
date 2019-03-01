@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1429383430 source:c:\documents and settings\usuario\escritorio\ordenacaodiscos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"ordenardiscos.h"
+
+1429383370 c:\documents and settings\usuario\escritorio\ordenacaodiscos\ordenardiscos.h
+

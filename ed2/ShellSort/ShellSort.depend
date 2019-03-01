@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1426775912 source:c:\users\alunoinf\documents\shellsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"shellsort.h"
+
+1426778044 c:\users\alunoinf\documents\shellsort\shellsort.h
+
+1426777844 source:c:\users\alunoinf\documents\shellsort\shellsort.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"shellsort.h"
+

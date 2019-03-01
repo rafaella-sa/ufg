@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1426444997 source:c:\documents and settings\usuario\escritorio\ordenacaolista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listadupla.h"
+
+1426445262 c:\documents and settings\usuario\escritorio\ordenacaolista\listadupla.h
+

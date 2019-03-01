@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1427566268 source:c:\documents and settings\usuario\escritorio\ordenacaostruct\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenastruct.h"
+
+1427566298 c:\documents and settings\usuario\escritorio\ordenacaostruct\ordenastruct.h
+
+1427566246 source:c:\documents and settings\usuario\escritorio\ordenacaostruct\ordenastruct.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ordenastruct.h"
+

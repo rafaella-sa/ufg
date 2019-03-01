@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1425568145 source:c:\users\alunoinf\documents\ordenacaobasica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ordenacao.h"
+
+1425568485 c:\users\alunoinf\documents\ordenacaobasica\ordenacao.h
+
+1425570064 source:c:\documents and settings\usuario\escritorio\ordenacaobasica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ordenacao.h"
+
+1425761934 c:\documents and settings\usuario\escritorio\ordenacaobasica\ordenacao.h
+
