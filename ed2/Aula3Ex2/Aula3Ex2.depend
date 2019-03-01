@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1425752481 source:c:\documents and settings\usuario\escritorio\aula3ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"binaryfile.h"
+
+1425753047 c:\documents and settings\usuario\escritorio\aula3ex2\binaryfile.h
+
+1425753045 source:c:\documents and settings\usuario\escritorio\aula3ex2\binaryfile.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"binaryfile.h"
+

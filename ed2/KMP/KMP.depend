@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1435417351 source:c:\documents and settings\usuario\escritorio\kmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1435420712 source:c:\documents and settings\usuario\escritorio\kmp\kmp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

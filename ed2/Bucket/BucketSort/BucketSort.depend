@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1428526982 source:c:\documents and settings\usuario\escritorio\bucketsort\bucket.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"bucket.h"
+
+1428526957 c:\documents and settings\usuario\escritorio\bucketsort\bucket.h
+
+1428526906 source:c:\documents and settings\usuario\escritorio\bucketsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"bucket.h"
+

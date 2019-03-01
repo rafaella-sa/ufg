@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1430074097 source:c:\documents and settings\usuario\escritorio\intercalacao\intercalar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"intercalar.h"
+
+1430073001 c:\documents and settings\usuario\escritorio\intercalacao\intercalar.h
+
+1430072904 source:c:\documents and settings\usuario\escritorio\intercalacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"intercalar.h"
+
+1430074092 source:c:\documents and settings\usuario\escritorio\intercalacao\ordenardiscos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"intercalar.h"
+

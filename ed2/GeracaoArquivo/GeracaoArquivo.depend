@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1429135976 source:c:\documents and settings\usuario\escritorio\geracaoarquivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1429139134 source:c:\documents and settings\usuario\escritorio\geracaoarquivo\gerararquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

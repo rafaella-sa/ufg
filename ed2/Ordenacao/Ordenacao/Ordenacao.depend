@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1427553434 source:c:\documents and settings\usuario\escritorio\ordenacao\heapsort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"ordenacao.h"
+
+1427555907 c:\documents and settings\usuario\escritorio\ordenacao\ordenacao.h
+
+1427555966 source:c:\documents and settings\usuario\escritorio\ordenacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"ordenacao.h"
+
+1427554536 source:c:\documents and settings\usuario\escritorio\ordenacao\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"ordenacao.h"
+
+1427553401 source:c:\documents and settings\usuario\escritorio\ordenacao\mergesort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"ordenacao.h"
+
+1427554631 source:c:\documents and settings\usuario\escritorio\ordenacao\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"ordenacao.h"
+
+1427553434 source:c:\documents and settings\usuario\escritorio\ordenacao\shellsort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"ordenacao.h"
+

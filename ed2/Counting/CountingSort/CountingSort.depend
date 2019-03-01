@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1427726856 source:c:\users\alunoinf\documents\countingsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"counting.h"
+
+1427729053 c:\users\alunoinf\documents\countingsort\counting.h
+
+1427704146 source:c:\documents and settings\usuario\escritorio\countingsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"counting.h"
+
+1428514862 c:\documents and settings\usuario\escritorio\countingsort\counting.h
+

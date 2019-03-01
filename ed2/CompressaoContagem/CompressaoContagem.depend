@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1435428754 source:c:\documents and settings\usuario\escritorio\compressaocontagem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"contagem.h"
+
+1435429696 c:\documents and settings\usuario\escritorio\compressaocontagem\contagem.h
+
+1435429391 source:c:\documents and settings\usuario\escritorio\compressaocontagem\contagem.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"contagem.h"
+

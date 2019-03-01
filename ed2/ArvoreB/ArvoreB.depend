@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\alunoinf\desktop\arvoreb\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1433107113 source:c:\documents and settings\usuario\mis documentos\downloads\arvoreb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreb.h"
+
+1433107384 c:\documents and settings\usuario\mis documentos\downloads\arvoreb\arvoreb.h
+
